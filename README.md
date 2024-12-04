@@ -29,3 +29,6 @@ Befolkningstätet
 
 DATA
 SCB tillhandahåller en stor del data. Datan är oftast komplett, inga null-värden, och samma enheter och konsekventa koder för kommmunerna. Viss data finns bara på tex länsnivå och där behöver jag finna ett sätt att koppla kommun till län. Det finns noteringeringa att enheter (geografiska enheter) har förändrats från ett år till ett annat och där behöver jag granska om det har stor påverkan och eventuellt kanske ta bort dessa ur urvalet.
+
+20241204 - Kommentar
+Har skapat två modeller och en klassificerings-modell i Jupitur. Har lagt till alla csv-file som behös eller skapas av modellerna. För mer detaljer runt projektet läs Projektbeksrivning.jpunb.
